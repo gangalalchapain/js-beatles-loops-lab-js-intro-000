@@ -23,6 +23,8 @@ function johnLennonFacts(array){
   } return result;
 }
 
+// Do while
+
 function iLoveTheBeatles(number){
   let result = [];
   let i = 15;
