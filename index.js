@@ -13,7 +13,7 @@ function johnLennonFacts(array){
   } return result;
 }
 */
-
+/*
 function johnLennonFacts(array){
   var result = [];
   var i = 0;
